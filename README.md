@@ -2,9 +2,13 @@
 
 O que é?
 
+É uma técnica de programação baseada na construção e utilização de objetos.
 
 
 Para que serve?
+
+Serve para ter mais eficiencia, pois a delimitação das resposabilidades dos objetos permite que suas classes sejam utilizadas em diferentes situações (reusabilidade).
+E a manutenção do código é simplificada, ou seja, é feita a modificação em elementos específicos.
 
 
 
