@@ -17,6 +17,8 @@ E a manutenção do código é simplificada, ou seja, é feita a modificação e
 
 ## Objeto:
 
+Uma entidade que possui estado e comportamento é conhecida como um objeto.
+
 ## Instanciação:
 
 
