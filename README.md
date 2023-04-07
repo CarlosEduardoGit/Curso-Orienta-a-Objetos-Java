@@ -11,8 +11,9 @@ Serve para ter mais eficiencia, pois a delimitação das resposabilidades dos ob
 E a manutenção do código é simplificada, ou seja, é feita a modificação em elementos específicos.
 
 
+## Classe: 
 
-## Classe:
+É um modelo para um tipo de objeto, que relaciona seus atributos (características e estado) e seus comportamentos (funcionallidades), podendo representar uma entidade real ou abstrata.
 
 ## Objeto:
 
