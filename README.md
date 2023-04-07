@@ -15,10 +15,10 @@ Para que serve?
 ## Instanciação:
 
 
-## Declaração de Classe e variáveis de instância
+### Declaração de Classe e variáveis de instância
 
 
-## Denominação de classe
+### Denominação de classe
 
 ## Visibilidade
 
