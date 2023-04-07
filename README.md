@@ -29,6 +29,14 @@ Para implementar uma classe em java devese utilizar a palavra reservada class.
 
                   [Imagem]
 
+É recomendado salvar cada classe em um arquivo próprio.
+
+Para instanciar deve se utilizar o operador new e uma chamada especial utilizando o nome da classe (construtor)
+
+                  [Imagem]
+
+Variáveis  de instância é aquela cujo tipo declarado é uma classe. Elas são usadas para manter referências dos objetos criados por meio da instaciação.
+
 ### Denominação de classe
 
 ## Visibilidade
