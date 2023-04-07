@@ -21,9 +21,13 @@ Uma entidade que possui estado e comportamento é conhecida como um objeto.
 
 ## Instanciação:
 
+Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. 
 
 ### Declaração de Classe e variáveis de instância
 
+Para implementar uma classe em java devese utilizar a palavra reservada class.
+
+                  [Imagem]
 
 ### Denominação de classe
 
