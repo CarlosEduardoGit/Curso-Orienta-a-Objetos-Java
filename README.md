@@ -65,7 +65,27 @@ Nomes compostos com a primeira inicial minúscula e as demais iniciais maiúscul
 
 ## Visibilidade
 
-## Compos
+A visibilidade ou acessibilidade permite a restrição do uso de certos elementos da classe.
+
+É com a restrição de acesso que se implementa o encapsulamento de informações e das implementações dentro das classes.
+
+O uso dos especificadores possibilita decidir a visibilidade dos elementos da classe, ou seja, se campos ou métodos podem ser utilizados livres (public);
+se devem ficar ocultos (private), evitar seu uso; ou ainda se poderão ser empregados na construção de novas subclasses (protected) por meio do mecanismo de herança.
+
+Quando um especificador de acesso não é explicitado, fica subentendido o nível pacote (package).
+
+Especificadores de Acesso Explícitos: 
+
+  * public
+  * protected
+  * private
+
+Especificadores de Acesso Implícito:
+
+  * package
+
+
+## Campos
 
 ## Métodos
 
