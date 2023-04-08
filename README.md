@@ -11,6 +11,8 @@ Serve para ter mais eficiencia, pois a delimitação das resposabilidades dos ob
 E a manutenção do código é simplificada, ou seja, é feita a modificação em elementos específicos.
 
 
+
+
 ## Classe: 
 
 É um modelo para um tipo de objeto, que relaciona seus atributos (características e estado) e seus comportamentos (funcionallidades), podendo representar uma entidade real ou abstrata.
@@ -22,6 +24,9 @@ Uma instância de uma classe é um novo objeto criado dessa classe, com o operad
 ## Objeto:
 
 Uma entidade que possui estado e comportamento é conhecida como um objeto.
+
+
+
 
 ### Declaração de Classe e variáveis de instância
 
