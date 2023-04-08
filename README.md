@@ -30,7 +30,7 @@ Uma entidade que possui estado e comportamento é conhecida como um objeto.
 
 ### Declaração de Classe e variáveis de instância
 
-Para implementar uma classe em java devese utilizar a palavra reservada class.
+Para implementar uma classe em java deve se utilizar a palavra reservada class.
 
                   [Imagem]
 
