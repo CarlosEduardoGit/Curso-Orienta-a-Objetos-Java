@@ -85,6 +85,11 @@ Especificadores de Acesso Implícito:
   * package
 
 
+Podemos declarar classes empregando os especificadores de acesso
+
+  * public - caso mais comum
+  * private - apenas para classes internas
+
 ## Campos
 
 ## Métodos
