@@ -39,6 +39,25 @@ Variáveis  de instância é aquela cujo tipo declarado é uma classe. Elas são
 
 ### Denominação de classe
 
+A convenção de nomenclatura Java define regras para denominação de classes, campos e métodos.
+
+Nomes de classes devem ser iniciados com letras maiúsculas, sendo as demais letras em minúsculas.
+
+                 [Imagem]
+
+No caso de nomes compostos de várias palavras, cada inicial deve ser maiúscula para melhorar a legibilidade.
+Embora permitido, nao se recomenda o uso de dígitos, cifrão $ ou sublinhado _.
+
+                 [Imagem]
+
+Os campos e métodos da classe devem ser nomes simples formados apenas com letras minúsculas;
+
+                 [Imagem]
+
+Nomes compostos com a primeira inicial minúscula e as demais iniciais maiúsculas.
+
+                 [Imagem]
+
 ## Visibilidade
 
 ## Compos
