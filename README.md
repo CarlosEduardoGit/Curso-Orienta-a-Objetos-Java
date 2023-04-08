@@ -90,7 +90,35 @@ Podemos declarar classes empregando os especificadores de acesso
   * public - caso mais comum
   * private - apenas para classes internas
 
+                            [Imagem]
+                            
+
 ## Campos
+
+Os campos (fields), atributos ou as variáveis-membro de uma classe são variáveis destinadas a armazenar dados que caracterizam o objeto, seu estado ou suas partes.
+
+                            [Imagem]    
+
+Neste exemplo a declaração apresenta um especificador de acesso, o qual define a visibilidade externa desse campo; um tipo primitivo ou classe; o nome do campo;
+e uma expressão de inicialização, opcional, que pode determinar um valor inicial para o campo.
+
+                            [Imagem]
+                            
+Uma classe Pessoa pode reter valores correspondentes ao nome, ao sobrenome e a idade de uma pessoa.
+
+                            [Imagem]
+
+Todos os objetos da classe Pessoa possuirão três campos, dois Strings nome e sobrenome e um inteiro idade independentes,cada objeto terá seus próprios campos, permitindo reter seus valores individuais (estados atual). 
+
+Seja qual for o esecificador de acesso usado, todo campo declarado em uma classe é acessível em qualquer parte de sua implementação.
+
+A criação de um objeto e seu uso na definição de uma pessoa pode ser assim:
+
+                            [Imagem]
+
+Como foi usado o especificador public para os campos da classe Pessoa esses podem ser acessados por uma variável de instância inicializada.
+
+                            [Imagem]
 
 ## Métodos
 
