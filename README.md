@@ -120,6 +120,11 @@ Como foi usado o especificador public para os campos da classe Pessoa esses pode
 
                             [Imagem]
 
+Por meio de uma variável de instância (de classe), o operador . (ponto), denominado seletor, permite escolher qualquer um dos campos acessíveis (públicos)
+definidos na classe.
+
+                            [Imagem]
+
 ## Métodos
 
 ## Assinatura de método
