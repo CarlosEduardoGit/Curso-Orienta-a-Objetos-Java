@@ -15,13 +15,13 @@ E a manutenção do código é simplificada, ou seja, é feita a modificação e
 
 É um modelo para um tipo de objeto, que relaciona seus atributos (características e estado) e seus comportamentos (funcionallidades), podendo representar uma entidade real ou abstrata.
 
-## Objeto:
-
-Uma entidade que possui estado e comportamento é conhecida como um objeto.
-
 ## Instanciação:
 
 Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. 
+
+## Objeto:
+
+Uma entidade que possui estado e comportamento é conhecida como um objeto.
 
 ### Declaração de Classe e variáveis de instância
 
